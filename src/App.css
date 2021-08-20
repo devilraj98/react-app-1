@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+
+.bg-dark{
+
+  background:linear-gradient(45deg,rgb(49, 32, 32),red);
+}
